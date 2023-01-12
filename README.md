@@ -1,2 +1,3 @@
 # Library-System-Managment
-this is a project
+
+This GitHub repository contains a Library Management software program that serves as a desktop application. It allows for easy access to the library's collection of books and allows users to check availability, even when the library is closed. Users can also send requests to borrow books by providing their name, ID, and email, and will receive an email with all the details of the rental. Admins have access to the program and can perform various tasks such as adding, deleting, and editing books in the library's collection as well as managing recommended books. They can also view user data such as which books have been borrowed and by whom, to assist in verifying identities when books are returned.
